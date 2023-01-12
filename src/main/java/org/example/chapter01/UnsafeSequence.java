@@ -1,4 +1,6 @@
-package org.example;
+package org.example.chapter01;
+
+import org.example.NotThreadSafe;
 
 /*
 * Because threads share the same memory address space and run concurrently,
